@@ -20,7 +20,7 @@ https://yana-portfolioo.netlify.app/
 - 💻 Interactive **Projects** section with flipping project cards
 - 🌷 A second "About Me" card on a tulip-animated background
 - 📱 Fully responsive – works on all devices
-- 🎵 Soft beeping sound effects for robot interactions *(optional)*
+
 
 ---
 
@@ -30,8 +30,7 @@ https://yana-portfolioo.netlify.app/
 - CSS3  
 - JavaScript  
 - GSAP / AOS / Framer Motion *(for animations)*  
-- React *(if applicable)*  
-- Figma *(for UI mockups/designs)*
+
 
 ---
 
