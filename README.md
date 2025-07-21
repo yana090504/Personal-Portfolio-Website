@@ -8,7 +8,7 @@ This project is designed to showcase my skills, projects, education, and interes
 ---
 
 ## 🌐 Live Website  
-[🔗 View My Portfolio](#) *(Add your live link here)*
+https://yana-portfolioo.netlify.app/
 
 ---
 
